@@ -1,0 +1,16 @@
+productID,type,title,author/artist,numInStock,price
+1,class anumhafizproject1.Books,fahrenheit 451,ray bradbury,8,9.99
+2,class anumhafizproject1.Books,1984,george orwell,5,15.99
+3,class anumhafizproject1.Books,to kill a mockingbird,harper lee,12,12.99
+4,class anumhafizproject1.Books,beloved,toni morrison,4,13.5
+5,class anumhafizproject1.Books,the little prince,antoine de saint exupéry,10,7.0
+6,class anumhafizproject1.Books,brave new world,aldous huxley,15,19.0
+7,class anumhafizproject1.Books,charlotte's web,e.b. white,10,8.99
+8,class anumhafizproject1.Books,hitchhiker's guide to the galaxy,douglas adams,5,9.99
+9,class anumhafizproject1.Books,catch-22,joseph heller,20,11.99
+10,class anumhafizproject1.Books,flowers for algernon,daniel keyes,7,6.99
+11,class anumhafizproject1.Cds,a night at the opera,queen,14,6.99
+12,class anumhafizproject1.Cds,cuz I love you,lizzo,8,7.99
+13,class anumhafizproject1.Cds,a hard day's night,the beatles,3,3.99
+14,class anumhafizproject1.Dvds,the dark knight,n/a,5,12.99
+15,class anumhafizproject1.Dvds,jurassic park,n/a ,7,7.99
